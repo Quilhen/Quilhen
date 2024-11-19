@@ -1,35 +1,34 @@
 # ¡Hola! 👋 Soy David
 
-Soy un **desarrollador junior** con experiencia en **Java** y **Spring Boot**, enfocado en el desarrollo backend y la creación de **APIs REST**. A lo largo de mi formación y proyectos personales, he trabajado con diferentes tecnologías y siempre busco oportunidades para aplicar mis conocimientos y seguir mejorando mis habilidades.
+Soy un desarrollador junior especializado en **backend** con experiencia en Java y Spring Boot, enfocado en el desarrollo de **APIs REST** seguras y eficientes. Durante mi formación y proyectos personales, he trabajado con diversas tecnologías, siempre buscando oportunidades para aprender, crecer y aportar valor con mi trabajo.
 
 ## 🚀 Proyectos destacados
 
-Aquí está un proyecto en el cual estoy trabajando:
-
-- [**Sistema de Gestión de Libros**](https://github.com/Quilhen/API-REST-Biblioteca)
-API REST para gestionar préstamos de libros, con autenticación de usuarios y control de accesos mediante **Spring Security**. Documentación de API con **Swagger**.
+- [**Library Management API**](https://github.com/Quilhen/API-REST-Biblioteca)  
+API RESTful desarrollada con **Spring Boot** para la gestión de bibliotecas. Incluye autenticación JWT, control de acceso por roles (`ADMIN`, `USER`), operaciones CRUD completas, y documentación interactiva con **Swagger UI**.  
 
 ## 🛠️ Tecnologías con las que trabajo
 
-- **Lenguajes**: Java, SQL
+- **Lenguajes**: Java, SQL, HTML, CSS, JavaScript
 - **Frameworks**: Spring Boot, Spring Security
 - **Bases de datos**: MySQL
 - **Herramientas**: Git, Swagger, Postman
 - **Otros**: JPA (Hibernate), APIs REST
 
-## 🔒 Ciberseguridad y Pentesting
+## 🔒 Seguridad en el Desarrollo de Software 
 
-Además del desarrollo, estoy profundizando en **ciberseguridad**, especialmente en **pentesting**. Estoy aprendiendo sobre técnicas de ataque y defensa en aplicaciones web, y cómo implementar buenas prácticas de seguridad en el código.
+Me interesa crear aplicaciones robustas y seguras. Actualmente estoy profundizando en buenas prácticas de seguridad, incluyendo:
+- Implementación de autenticación segura (JWT, roles y permisos).
+- Prevención de vulnerabilidades como inyecciones SQL y CSRF.
+- Conocimientos complementarios en ciberseguridad y pentesting para entender cómo proteger aplicaciones frente a amenazas reales.
 
 ## 📚 Siempre aprendiendo
 
 Me considero autodidacta y estoy constantemente ampliando mis conocimientos. Actualmente, me estoy enfocando en mejorar mis habilidades en:
 
-- **JUnit**: Pruebas unitarias para garantizar la calidad del código.
-- **Docker**: Contenerización y despliegue de aplicaciones en entornos aislados.
-- **Arquitectura de microservicios**
-- **Optimización de bases de datos**
-- **Seguridad en aplicaciones web**
+- **Arquitectura de microservicios** para aplicaciones escalables.
+- **Optimización de bases de datos** para mejorar el rendimiento.
+- **Seguridad en aplicaciones web:** Implementación de mejores prácticas para proteger APIs REST.
 
 ## 🤝 Colaboraciones
 
@@ -41,3 +40,5 @@ Estoy abierto a colaborar en proyectos interesantes, especialmente aquellos rela
 - **Correo**: [d.gonzalez.cybersec@gmail.com](mailto:d.gonzalez.cybersec@gmail.com)
 
 ---
+
+
